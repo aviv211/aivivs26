@@ -6,9 +6,11 @@
 
 # 2 truth and 1 lie
 
-I'm korean,
-I love kdaramas and Kpops,
-I eat a lot
+I'm korean, (T?)
+
+I love kdaramas and Kpops, (F?)
+
+I eat a lot (T?)
 
 
 
