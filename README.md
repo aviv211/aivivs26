@@ -4,10 +4,10 @@
 
 < - -  Welcome back to the past - - >
 
-# 2 truth and 1 lie
+# 2 truths and 1 lie
 
 I'm korean,
-I love kdaramas and Kpops,
+I love kdramas and Kpops,
 I eat a lot
 
 
