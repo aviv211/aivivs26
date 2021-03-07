@@ -4,7 +4,7 @@
 #Select 5 privacy principles 
 
 < -Principle no1 - Purpose of collection of personal information - >
- personal informations can be collected for lawful purpose applicable for the web applications and necessary for required purpose.
+ < -personal informations can be collected for lawful purpose applicable for the web applications and necessary for required purpose. - >
 
  a.)
 -
@@ -12,7 +12,7 @@
 -
 
 < -Principle no2 - Source of personal information - >
- if the organization collects personal informations, it must be collected from the individual concerns.
+ < -if the organization collects personal informations, it must be collected from the individual concerns. - >
 
  a.) 
 -
@@ -20,7 +20,7 @@
 -
 
 < -Principle no6 - Access to personal information - >
- individuals have the right to obtain from the organizations confirmation of whether the agency holds personal information about them.
+ < -individuals have the right to obtain from the organizations confirmation of whether the agency holds personal information about them. - >
  
  a.) How do we make sure that users can manage their personal informations?
 - manage your personal information.
@@ -28,7 +28,7 @@
 - access your personal information.
 
 < -Principle no7 - Correction of personal information - >
- any individual that has their personal information held by the organization can request the organization to correct the information.
+ < -any individual that has their personal information held by the organization can request the organization to correct the information. - >
 
  a.) How can the users update their personal informations?
 - update your personal information.
@@ -36,7 +36,7 @@
 - change your password.
 
 < -Principle no9 - Agency not to keep personal information for longer than necessary - >
- an organization that holds the personal information of an individual should not keep the information for longer than is necessary for the purposes.
+ < -an organization that holds the personal information of an individual should not keep the information for longer than is necessary for the purposes. - >
 
  a.) Where does file/data goes to when deleted?
 - deleted file/data can be restore within 30 days, but will be automatically deleted otherwise.
