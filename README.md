@@ -7,14 +7,14 @@
  personal informations can be collected for lawful purpose applicable for the web applications and necessary for required purpose.
 
  a.)
-- 
+-
  b.)
 -
 
 < -Principle no2 - Source of personal information - >
  if the organization collects personal informations, it must be collected from the individual concerns.
 
- a.)
+ a.) 
 -
  b.)
 -
