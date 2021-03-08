@@ -6,10 +6,10 @@
 < -Principle no1 - Purpose of collection of personal information - >
  < -personal informations can be collected for lawful purpose applicable for the web applications and necessary for required purpose. - >
 
- a.)
--
- b.)
--
+ a.) How does the organization identify the users?
+- write your personal information.
+ b.) How can you find other users?
+- Search other users.
 
 < -Principle no2 - Source of personal information - >
  < -if the organization collects personal informations, it must be collected from the individual concerns. - >
