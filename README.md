@@ -36,9 +36,34 @@
 - change your password.
 
 < -Principle no9 - Agency not to keep personal information for longer than necessary - >
- < -an organization that holds the personal information of an individual should not keep the information for longer than is necessary for the purposes. - >
+ < -an organization that holds the personal information of an individual should not keep the information for longer than is necessary for the purposes it may lawfully be used. - >
 
  a.) Where does file/data goes to when deleted?
 - deleted file/data can be restore within 30 days, but will be automatically deleted otherwise.
- b.)
+ b.) 
 -
+
+
+
+
+
+#Privacy Policy Task 2
+
+ 1. Twitter
+ 2. https://www.twitter.com, this is the url for friendster which you can go and see the website when you click it.
+    Twitter is a social media site, It's main purpose is to connect users and allow users to share their thoughts with listeners and viewers around the world. You can also share ideas to people by tweeting or replying to their tweets. You can communicate with others by sending them direct messages and you can watch anything you can see in your feeds.
+    Twitter may obtain personal information including the web page you visited, your IP address, browser type, operating system, and cookie information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
