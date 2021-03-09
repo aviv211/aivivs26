@@ -14,10 +14,10 @@
 < -Principle no2 - Source of personal information - >
  < -if the organization collects personal informations, it must be collected from the individual concerns. - >
 
- a.) 
--
- b.)
--
+ a.) How can the organization know this is your own email?
+- verify and confirm your email by sending the code given.
+ b.) How can the organization know this is your own phone number?
+- verify and confirm your number by sending the code given.
 
 < -Principle no6 - Access to personal information - >
  < -individuals have the right to obtain from the organizations confirmation of whether the agency holds personal information about them. - >
