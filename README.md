@@ -50,7 +50,7 @@
 #Privacy Policy Task 2
 
  1. Twitter
- 2. https://www.twitter.com, this is the url for friendster which you can go and see the website when you click it.
+ 2. https://www.twitter.com, this is the url for twitter which you can go and see the website when you click it.
     Twitter is a social media site, It's main purpose is to connect users and allow users to share their thoughts with listeners and viewers around the world. You can also share ideas to people by tweeting or replying to their tweets. You can communicate with others by sending them direct messages and you can watch anything you can see in your feeds.
     Twitter may obtain personal information including the web page you visited, your IP address, browser type, operating system, and cookie information.
 
