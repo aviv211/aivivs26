@@ -1,7 +1,7 @@
-##Privacy Checklist Task 1 
+#Privacy Checklist Task 1 
 
 
-#Select 5 privacy principles 
+##Select 5 privacy principles 
 
 < -Principle no1 - Purpose of collection of personal information - >
  < -personal informations can be collected for lawful purpose applicable for the web applications and necessary for required purpose. - >
