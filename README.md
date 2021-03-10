@@ -84,8 +84,11 @@
  ## 5. Explain how your privacy policy implements each of the five principles you analysed in the Privacy Checklist you created.
 
   a. Privacy policy "a" is implementing principle no.1 by collecting the personal information of the users.
+  
   b. Privacy policy "b" is implementing principle no.6 and no.7 by accessing or managing the user's personal information and correcting or updating their personal information.
+  
   c. Privacy policy "c" is implementing principle no.9 by letting the users know how long the data can be access by the agency/organization.
+  
   d. Privacy policy "d" is implementing principle no.2 by making sure that the personal information given is from the individual concern itself.
   
   
