@@ -1,55 +1,55 @@
-#Privacy Checklist Task 1 
+# Privacy Checklist Task 1 
 
 
-##Select 5 privacy principles 
+## Select 5 privacy principles 
 
-< -Principle no1 - Purpose of collection of personal information.- >
- < -personal informations can be collected for lawful purpose applicable for the web applications and necessary for required purpose.- >
+## -Principle no1 - Purpose of collection of personal information.
+ # -personal informations can be collected for lawful purpose applicable for the web applications and necessary for required purpose.
 
- a.) How does the organization identify the users?
+ a. How does the organization identify the users?
 - write your personal information.
- b.) How can you find other users?
+ b. How can you find other users?
 - Search other users.
 
-< -Principle no2 - Source of personal information.- >
- < -if the organization collects personal informations, it must be collected from the individual concerns.- >
+## -Principle no2 - Source of personal information.
+ # -if the organization collects personal informations, it must be collected from the individual concerns.
 
- a.) How can the organization know this is your own email?
+ a. How can the organization know this is your own email?
 - verify and confirm your email by sending the code given.
- b.) How can the organization know this is your own phone number?
+ b. How can the organization know this is your own phone number?
 - verify and confirm your number by sending the code given.
 
-< -Principle no6 - Access to personal information.- >
- < -individuals have the right to obtain from the organizations confirmation of whether the agency holds personal information about them.- >
+## -Principle no6 - Access to personal information.
+ # -individuals have the right to obtain from the organizations confirmation of whether the agency holds personal information about them.
  
- a.) How do we make sure that users can manage their personal informations?
+ a. How do we make sure that users can manage their personal informations?
 - manage your personal information.
- b.) How do we make sure that users can access their personal informations?
+ b. How do we make sure that users can access their personal informations?
 - access your personal information.
 
-< -Principle no7 - Correction of personal information.- >
- < -any individual that has their personal information held by the organization can request the organization to correct the information.- >
+## -Principle no7 - Correction of personal information.
+ # -any individual that has their personal information held by the organization can request the organization to correct the information.
 
- a.) How can the users update their personal informations?
+ a. How can the users update their personal informations?
 - update your personal information.
- b.) How can a user change his password?
+ b. How can a user change his password?
 - change your password.
 
-< -Principle no9 - Agency not to keep personal information for longer than necessary.- >
- < -an organization that holds the personal information of an individual should not keep the information for longer than is necessary for the purposes it may lawfully be used.- >
+## -Principle no9 - Agency not to keep personal information for longer than necessary.
+ # -an organization that holds the personal information of an individual should not keep the information for longer than is necessary for the purposes it may lawfully be used.
 
- a.) Where does file/data goes to when deleted?
+ a. Where does file/data goes to when deleted?
 - deleted file/data can be restore within 30 days, but will be automatically deleted otherwise.
- b.) How are the individuals will know that their informations are not be keeping longer than necessary?
+ b. How are the individuals will know that their informations are not be keeping longer than necessary?
 - user can see the duration of the informations by the agency being use until it's finished.
 
 
 
 
 
-#Privacy Policy Task 2
+## Privacy Policy Task 2
 
- < -Select a specific website and create a privacy policy for it.- >
+ # -Select a specific website and create a privacy policy for it.
 
  1. Twitter
  2. https://www.twitter.com, this is the url for twitter which you can go and see the website when you click it.
@@ -75,15 +75,16 @@
 
    Personal informations should be collected from the individual concerns to let them know themselves that their personal informations are about to be collected by the agency/organization. 
 
- e. 
-
+ e. Direct messages.
+ 
+   Users can communicate with each other privately by using direct message from twitter so the user doesn't need to use tweet and let everyone who follow him/her see everything. When user communicate with others by sending or receiving Direct Messages, Agency will store and process your communications and information related to them.
 
  5. Explain how your privacy policy implements each of the five principles you analysed in the Privacy Checklist you created.
 
   a. Privacy policy "a" is implementing principle no.1 by collecting the personal information of the users.
   b. Privacy policy "b" is implementing principle no.6 and no.7 by accessing or managing the user's personal information and correcting or updating their personal information.
   c. Privacy policy "c" is implementing principle no.9 by letting the users know how long the data can be access by the agency/organization.
-  d. Privacy policy "d" is implementing principle no.2 by 
+  d. Privacy policy "d" is implementing principle no.2 by making sure that the personal information given is from the individual concern itself.
   
   
   
