@@ -3,40 +3,40 @@
 
 ## Select 5 privacy principles 
 
-## -Principle no1 - Purpose of collection of personal information.
- # -personal informations can be collected for lawful purpose applicable for the web applications and necessary for required purpose.
+# -Principle no1 - Purpose of collection of personal information.
+ ## -personal informations can be collected for lawful purpose applicable for the web applications and necessary for required purpose.
 
  - How does the organization identify the users?
  write your personal information.
  - How can you find other users?
  Search other users.
 
-## -Principle no2 - Source of personal information.
- # -if the organization collects personal informations, it must be collected from the individual concerns.
+# -Principle no2 - Source of personal information.
+ ## -if the organization collects personal informations, it must be collected from the individual concerns.
 
  - How can the organization know this is your own email?
  verify and confirm your email by sending the code given.
  - How can the organization know this is your own phone number?
  verify and confirm your number by sending the code given.
 
-## -Principle no6 - Access to personal information.
- # -individuals have the right to obtain from the organizations confirmation of whether the agency holds personal information about them.
+# -Principle no6 - Access to personal information.
+ ## -individuals have the right to obtain from the organizations confirmation of whether the agency holds personal information about them.
  
  - How do we make sure that users can manage their personal informations?
  manage your personal information.
  - How do we make sure that users can access their personal informations?
  access your personal information.
 
-## -Principle no7 - Correction of personal information.
- # -any individual that has their personal information held by the organization can request the organization to correct the information.
+# -Principle no7 - Correction of personal information.
+ ## -any individual that has their personal information held by the organization can request the organization to correct the information.
 
  - How can the users update their personal informations?
  update your personal information.
  - How can a user change his password?
  change your password.
 
-## -Principle no9 - Agency not to keep personal information for longer than necessary.
- # -an organization that holds the personal information of an individual should not keep the information for longer than is necessary for the purposes it may lawfully be used.
+# -Principle no9 - Agency not to keep personal information for longer than necessary.
+ ## -an organization that holds the personal information of an individual should not keep the information for longer than is necessary for the purposes it may lawfully be used.
 
  - Where does file/data goes to when deleted?
  deleted file/data can be restore within 30 days, but will be automatically deleted otherwise.
@@ -47,16 +47,16 @@
 
 
 
-## Privacy Policy Task 2
+# Privacy Policy Task 2
 
- # -Select a specific website and create a privacy policy for it.
+ ## -Select a specific website and create a privacy policy for it.
 
- 1. Twitter
- 2. https://www.twitter.com, this is the url for twitter which you can go and see the website when you click it.
+ ## 1. Twitter
+ ## 2. https://www.twitter.com, this is the url for twitter which you can go and see the website when you click it.
     Twitter is a social media site, It's main purpose is to connect users and allow users to share their thoughts with listeners and viewers around the world. You can also share ideas to people by tweeting or replying to their tweets. You can communicate with others by sending them direct messages and you can watch anything you can see in your feeds.
     Twitter may obtain information including the web page you visited, your IP address, browser type, operating system, and cookie information. Twitter can track your IP address if you're using Twitter on your home or office wifi network, or your phone's data plan. 
     
- 3. Privacy Policy   
+ ## 3. Privacy Policy   
     The users should always know what data and information the agency collect from the users and how they operate it. The agency needs wo enable users to make the right choice about the information users are giving the agency. That should be the basic purpose of the privacy policy.
 
  a. Personal information.
@@ -79,7 +79,7 @@
  
    Users can communicate with each other privately by using direct message from twitter so the user doesn't need to use tweet and let everyone who follow him/her see everything. When user communicate with others by sending or receiving Direct Messages, Agency will store and process your communications and information related to them.
 
- 5. Explain how your privacy policy implements each of the five principles you analysed in the Privacy Checklist you created.
+ ## 5. Explain how your privacy policy implements each of the five principles you analysed in the Privacy Checklist you created.
 
   a. Privacy policy "a" is implementing principle no.1 by collecting the personal information of the users.
   b. Privacy policy "b" is implementing principle no.6 and no.7 by accessing or managing the user's personal information and correcting or updating their personal information.
